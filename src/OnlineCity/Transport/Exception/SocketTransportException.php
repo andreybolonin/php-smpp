@@ -2,4 +2,6 @@
 
 namespace OnlineCity\Transport\Exception;
 
-class SocketTransportException extends \RuntimeException { }
+class SocketTransportException extends \RuntimeException
+{
+}
